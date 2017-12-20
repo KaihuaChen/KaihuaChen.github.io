@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Tale
+paginate:       5
+baseurl:        "/tale"
+url:            "https://kaihuachen.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Chole Chen
+  url:
+  email:
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:
+
+# Gems
+plugins:
+  - jekyll-paginate
