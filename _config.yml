@@ -1,29 +1,31 @@
-# Jekyll configuration
+# Permalinks
+permalink:      /:year-:month-:day/:title
 
-name: Xixia
-description: Welcome to Xixia！
+# Setup
+title:          Tale
+paginate:       5
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: '/jekyll-xixia'
-## default date_format
-date_format: 
-  title: "%B-%-d-%Y"
-  archive: "%b"
-  categories: "%b-%Y"
-  tag: "%b-%Y"
-# Language
-lan: "en" 
+# Build settings
+markdown:       kramdown
 
-paginate: 10
+# About
+author:
+  name:         Chester How
+  url:          http://chester.how
+  email:        chesterhow@gmail.com
 
-highlighter: rouge
-markdown: kramdown
-gems: ['jekyll-paginate']
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/chesterhow/tale
 
-exclude: ['README.md', 'LICENSE', "*.bak"]
+# Gems
+plugins:
+  - jekyll-paginate

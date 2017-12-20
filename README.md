@@ -1,54 +1,40 @@
-Jekyll Xixia
-============
+# Tale
+Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
 
-* Get it from [github](https://github.com/zxixia/jekyll-xixia).
-* See the [live demo](http://zxixia.github.io/jekyll-xixia/).
-* See it [in action on my own blog](http://xixia.info/).
+![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
-A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
-(not to be confused with jekyll-bootstrap) that's easy to modify and very
-modular in component and element reuse.
+## Features
+- Compatible with GitHub Pages
+- Responsive design (looks just as good on mobile)
+- Syntax highlighting, with the help of Pygments
+- Markdown and HTML text formatting
+- Pagination of posts
 
-The theme works well on mobile phones, using a collapsable nav bar and hiding the
-sidebar. The links pane in the sidebar is available on mobile through the nav menu,
-and you can do the same thing for any other sections added to the sidebar.
+## Usage
+### 1. Fork and Clone
+Fork this repository then clone it.
 
-Don't forget to occassionally merge against my upstream repository so you can get
-the latest changes. Pull requests are encouraged and accepted!
+### 2. Install dependencies
+Tale uses Jekyll's built-SCSS compiler to generate CSS. You'll need to install the Jekyll gem:
 
-Preview
-=======
-![Xixia](/assets/images/preview.png)
+```bash
+$ gem install jekyll
+```
 
-License
-=======
+### 3. Create your site
+Edit the `_config.yml` file to suit your site. Also replace posts and content with your own.
 
-The content of this theme is distributed and licensed under a
-![License Badge](assets/images/cc_by_88x31.png)
-[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+### 4. Running Locally
+To test your site locally, run this in your site's root directory
 
-    This license lets others distribute, remix, tweak, and build upon your work,
-    even commercially, as long as they credit you for the original creation. This
-    is the most accommodating of licenses offered. Recommended for maximum
-    dissemination and use of licensed materials.
+```bash
+$ jekyll serve --watch
+```
 
-In other words: you can do anything you want with this theme on any site, just please
-provide a link to [the original theme on github](https://github.com/zxixia/jekyll-xixia)
-so I get credit for the original design. Beyond that, have at it!
+Head to http://localhost:4000/tale/ to see your site in action.
 
-Thanks
-======
+## Contributing
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
-1，[Jekyll][jekyll-url]
-
-2，[Bootstrap][bootstrap-url]
-
-3，[Github][github-url]
-
-4，[Jekyll Clean Theme][Jekyll-Clean-Theme-url]
-
-[jekyll-url]: http://jekyllrb.com/
-[bootstrap-url]: http://getbootstrap.com/
-[github-url]: https://github.com/
-[Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
-[xixia-url]: http://xixia.info/
+## License
+See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
