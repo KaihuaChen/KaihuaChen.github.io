@@ -5,7 +5,7 @@ author: "Chole"
 ---
 
 
-# Kaihua Chen (Chole Chen)
+# Kaihua Chen (Chole Che)
 Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 
 #### <ins>EDUCATION</ins>
