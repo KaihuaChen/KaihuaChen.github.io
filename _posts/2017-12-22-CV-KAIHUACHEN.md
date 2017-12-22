@@ -39,7 +39,7 @@ their enhanced electro-catalytic activity toward oxygen reduction and methanol o
 * Hui Zhang, **Kaihua Chen**, Ping Wu, Chenxin Cai. The synthesis of semiconductor nanocrystals (Cu- In-S quantum dots) by a microwave method. Patent No. CN103496737A. 2014.1.8.
 
 #### <ins>HONORS AND AWARDS</ins>
-* The Frist Prize Professional Scholarship of Beijing Normal University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**2016-2017**
+* The Frist Prize Professional Scholarship of Beijing Normal University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2016-2017**
 * The Second Prize Professional Scholarship of Beijing Normal University &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;**2015-2016**
 * Outstanding Dissertation of the Bachelor Degree, Nanjing Normal University<br>
 The Frist Prize Professional Scholarship of Nanjing Normal University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2014-2015**
@@ -50,4 +50,4 @@ The Frist Prize Professional Scholarship of Nanjing Normal University&emsp;&emsp
 * **Radiopharmaceuticals:** Probe design, organic synthesis, radiolabeling, biological evaluations<br>
 * **Animal Study:** Tail intravenous injection, dissecting experiment<br>
 * **Software:** ChemDraw, Origin, GraphPad Prism, Gauss View 5.0, AutoDock 4.2, Photoshop, EndNote<br>
-* **Proficient in Instruments:** HPLC, 1H NMR (Bruker Avance III NMR spectrometers), 13C NMR (100MHz), γ-counter, Technetium analyzer
+* **Proficient in Instruments:** HPLC, <sup>1</sup>H NMR (Bruker Avance III NMR spectrometers), <sup>13</sup>C NMR (100MHz), γ-counter, Technetium analyzer
