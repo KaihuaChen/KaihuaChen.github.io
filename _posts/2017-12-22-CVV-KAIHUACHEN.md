@@ -8,7 +8,7 @@ author: "Chole"
 # Kaihua Chen (Chole Chen)
 Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 
-#### <ins>EDUCATION</ins>
+#### <ins>EDUCATION</ins>    #### 123
 <div style="display:flex;justify-content:space-between">**Beijing Normal University** **Beijing, China**</div>
 <div style="display:flex;justify-content:space-between">***Master of Science in Medicinal Chemistry and Molecular Engineering*** **Sep.2015-Jun.2018**</div>
 * Mentor: Dr. Boli Liu and Dr. Mengchao Cui
