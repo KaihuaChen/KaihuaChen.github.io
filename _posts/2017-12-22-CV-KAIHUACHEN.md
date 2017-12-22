@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CVV"
+title: "CV"
 author: "Chole"
 ---
 
