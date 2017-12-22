@@ -11,13 +11,13 @@ Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 #### <ins>EDUCATION</ins>
 **Beijing Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Beijing, China**<br>
 **Master of Science in Medicinal Chemistry and Molecular Engineering**
-&emsp;&emsp; **Sep.2015-Jun.2018**<br>
+&emsp;&emsp;&emsp; **Sep.2015-Jun.2018**<br>
 ● Mentor: Dr. Boli Liu and Dr. Mengchao Cui
 
 **Nanjing Normal University**
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Nanjing, China**<br>
 **Bachelor of Science in Chemistry and Materials Science**
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Sep.2011-Jun.2015**<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Sep.2011-Jun.2015**<br>
 ● Mentor: Dr. Yawen Tang and Dr. Hui Zhang &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **GPA: 3.38**
 
 
