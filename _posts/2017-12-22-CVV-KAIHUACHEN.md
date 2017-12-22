@@ -9,13 +9,13 @@ author: "Chole"
 Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 
 #### <ins>EDUCATION</ins>
-**Beijing Normal University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Beijing, China**<br>
+**Beijing Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Beijing, China**<br>
 **Master of Science in Medicinal Chemistry and Molecular Engineering**
-* Mentor: Dr. Boli Liu and Dr. Mengchao Cui
+● Mentor: Dr. Boli Liu and Dr. Mengchao Cui
 
 **Nanjing Normal University**
 **Bachelor of Science in Chemistry and Materials Science, China**
-* Mentor: Dr. Yawen Tang and Dr. Hui Zhang
+● Mentor: Dr. Yawen Tang and Dr. Hui Zhang
 
 
 #### <ins>RESEARCH EXPERIENCE</ins>
