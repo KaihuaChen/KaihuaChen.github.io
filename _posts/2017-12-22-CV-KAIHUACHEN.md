@@ -30,7 +30,7 @@ graphene nanomaterials<br>
 their enhanced electro-catalytic activity toward oxygen reduction and methanol oxidation
 
 #### <ins>ACADEMIS COMMUNICATION AND TRAINING</ins>
-● The 30th academic annual conference of Chinese Chemical Society &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jul. 2016**<br>
+● The 30th academic annual conference of Chinese Chemical Society &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jul. 2016**<br>
 ● The 8th Training Program of Nuclear Safety and Radiation Protection<br>
 − Ministry of Environmental Protection and Tsinghua University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Jun.2015**
 
