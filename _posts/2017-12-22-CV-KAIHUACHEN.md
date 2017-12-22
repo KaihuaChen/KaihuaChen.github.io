@@ -49,5 +49,5 @@ The Frist Prize Professional Scholarship of Nanjing Normal University&emsp;&emsp
 
 ● **Radiopharmaceuticals:** Probe design, organic synthesis, radiolabeling, biological evaluations<br>
 ● **Animal Study:** Tail intravenous injection, dissecting experiment<br>
-● **Software:** ChemDraw, Origin, GraphPad Prism, Gauss View 5.0, AutoDock 4.2, Photoshop, EndNote<br>
+● **Software:** ChemDraw,Origin,GraphPad Prism,Gauss View 5.0,AutoDock 4.2,Photoshop,EndNote<br>
 ● **Proficient in Instruments:** HPLC, <sup>1</sup>H NMR (Bruker Avance III NMR spectrometers), <sup>13</sup>C NMR (100MHz), γ-counter, Technetium analyzer
