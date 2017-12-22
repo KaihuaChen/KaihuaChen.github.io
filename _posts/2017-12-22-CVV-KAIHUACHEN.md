@@ -9,20 +9,21 @@ author: "Chole"
 Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 
 #### <ins>EDUCATION</ins>
-<div style="display:flex;justify-content:space-between">**Beijing Normal University** **Beijing, China**</div>
-<div style="display:flex;justify-content:space-between">***Master of Science in Medicinal Chemistry and Molecular Engineering*** **Sep.2015-Jun.2018**</div>
+**Beijing Normal University**
+**Master of Science in Medicinal Chemistry and Molecular Engineering**
 * Mentor: Dr. Boli Liu and Dr. Mengchao Cui
-<div style="display:flex;justify-content:space-between">**Nanjing Normal University** **Nanjing, China**</div>
-<div style="display:flex;justify-content:space-between">**Bachelor of Science in Chemistry and Materials Science, China** **Sep.2011-Jun.2015**</div>
-<div style="display:flex;justify-content:space-between">* Mentor: Dr. Yawen Tang and Dr. Hui Zhang **GPA: 3.38**</div>
+
+**Nanjing Normal University**
+**Bachelor of Science in Chemistry and Materials Science, China**
+* Mentor: Dr. Yawen Tang and Dr. Hui Zhang
 
 
 #### <ins>RESEARCH EXPERIENCE</ins>
-* ***M.S.*** Synthesis and evaluation of 18F-labeled diphenoxy derivatives as Position Emission Tomography (PET) imaging probes for β-Amyloid plaques
-* ***M.S.*** Design and evaluation of novel flexible ligands targeting β-Amyloid plaques
-* ***B.S.*** Conducted Project: Non-enzymatic electrochemical detection of glucose based on Pd1Pt3–
+* **M.S.** Synthesis and evaluation of 18F-labeled diphenoxy derivatives as Position Emission Tomography (PET) imaging probes for β-Amyloid plaques
+* **M.S.** Design and evaluation of novel flexible ligands targeting β-Amyloid plaques
+* **B.S.** Conducted Project: Non-enzymatic electrochemical detection of glucose based on Pd1Pt3–
 graphene nanomaterials
-* ***B.S.*** Synthesis of semiconductor nanocrystals (Cu-In-S quantum dots) by a microwave method and
+* **B.S.** Synthesis of semiconductor nanocrystals (Cu-In-S quantum dots) by a microwave method and
 their enhanced electro-catalytic activity toward oxygen reduction and methanol oxidation
 
 #### <ins>ACADEMIS COMMUNICATION AND TRAINING</ins>
