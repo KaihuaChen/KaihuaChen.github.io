@@ -22,7 +22,7 @@ Tel: (+86) 152-0107-2566 | E-mail: kaihuachen@mail.bnu.edu.cn
 
 
 #### <ins>RESEARCH EXPERIENCE</ins>
-● **M.S.** Synthesis and evaluation of <sup>18</sup>F-labeled diphenoxy derivatives as Position Emission Tomography (PET) imaging probes for β-Amyloid plaques<br>
+● **M.S.** Synthesis and evaluation of<sup>18</sup>F-labeled diphenoxy derivatives as Position Emission Tomography (PET) imaging probes for β-Amyloid plaques<br>
 ● **M.S.** Design and evaluation of novel flexible ligands targeting β-Amyloid plaques<br>
 ● **B.S.** Conducted Project: Non-enzymatic electrochemical detection of glucose based on Pd<sub>1</sub>Pt<sub>3</sub>–
 graphene nanomaterials<br>
@@ -32,7 +32,7 @@ their enhanced electro-catalytic activity toward oxygen reduction and methanol o
 #### <ins>ACADEMIS COMMUNICATION AND TRAINING</ins>
 ● The 30th academic annual conference of Chinese Chemical Society &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jul. 2016**<br>
 ● The 8th Training Program of Nuclear Safety and Radiation Protection<br>
-− Ministry of Environmental Protection and Tsinghua University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Jun.2015**
+− Ministry of Environmental Protection and Tsinghua University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Jun.2015**
 
 #### <ins>PUBLICATIONS</ins>
 ● **Kaihua Chen** and Mengchao Cui. Recent progress in the development of metal complexes as β- amyloid imaging probes in the brain. Med. Chem. Commun. 2017, 8, 1393.<br>
