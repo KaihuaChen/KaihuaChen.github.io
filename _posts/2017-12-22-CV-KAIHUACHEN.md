@@ -42,7 +42,7 @@ their enhanced electro-catalytic activity toward oxygen reduction and methanol o
 ● The Frist Prize Professional Scholarship of Beijing Normal University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**2016-2017**<br>
 ● The Second Prize Professional Scholarship of Beijing Normal University &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;**2015-2016**<br>
 ● Outstanding Dissertation of the Bachelor Degree, Nanjing Normal University<br>
-The Frist Prize Professional Scholarship of Nanjing Normal University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2014-2015**
+&emsp;The Frist Prize Professional Scholarship of Nanjing Normal University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2014-2015**
 
 
 #### <ins>SKILLS</ins>
