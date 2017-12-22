@@ -32,7 +32,7 @@ their enhanced electro-catalytic activity toward oxygen reduction and methanol o
 #### <ins>ACADEMIS COMMUNICATION AND TRAINING</ins>
 ● The 30th academic annual conference of Chinese Chemical Society &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jul. 2016**<br>
 ● The 8th Training Program of Nuclear Safety and Radiation Protection<br>
-− Ministry of Environmental Protection and Tsinghua University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jun.2015**
+− Ministry of Environmental Protection and Tsinghua University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;**Jun.2015**
 
 #### <ins>PUBLICATIONS</ins>
 ● **Kaihua Chen** and Mengchao Cui. Recent progress in the development of metal complexes as β- amyloid imaging probes in the brain. Med. Chem. Commun. 2017, 8, 1393.<br>
